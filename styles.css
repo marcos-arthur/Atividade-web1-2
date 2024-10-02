@@ -1,0 +1,40 @@
+.header{
+    width: 100%;
+    font-size: 24px;
+
+    color: rgb(233, 233, 233);
+    background-color: #212529;
+
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.section-header{
+    font-size: 18px;
+    font-weight: bold;
+
+    padding: 10px;
+}
+
+.table > thead tr{
+    background-color: rgb(53, 53, 53) !important;
+}
+
+.no-padding {
+   padding: 0;
+}
+
+.button{
+    width: 100%;
+    background-color: #212529;
+    color: aliceblue;
+}
+
+.button:hover{
+    background-color: #101214;
+    color: aliceblue;
+}
+
+.footer{
+    text-align: center;
+}
